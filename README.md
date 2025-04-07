@@ -1,1 +1,1 @@
-
+This is a demo dataset of the paper "A Vehicle Dashboard Dataset Towards Visual Complexity Design" from the 2025 AHFE--16th International Conference on Applied Human Factors and Ergonomics and the Affiliated Conferences
